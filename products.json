@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "Fine-Spinners-2-In-1-Pack-of-Mens-Cotton-Polo-White-Blue",
+    "title": "Fine Spinners  Pack of Men's Cotton Polo – White,Blue",
+    "category": "men",
+    "subCategory": "",
+    "filters": "shirt",
+    "availability": true,
+    "colors": ["blue", "white"],
+    "selectedColor": "",
+    "sizes": ["L", "M", "S", "XL", "XXL"],
+    "selectedSize": "",
+    "seller": "levbitz",
+    "count": 1,
+    "price": 35000,
+
+    "specifications": "3 In 1 Pack of Men's Cotton T-shirts",
+    "description": "Fine Spinners  Pack of Men's Cotton Polo – White,Blue",
+    "sliders": [
+      "https://firebasestorage.googleapis.com/v0/b/myassetapi.appspot.com/o/men%2Fclothing%2FFine%20Spinners%202%20In%201%20Pack%20of%20Men's%20Cotton%20Polo%20%E2%80%93%20White%2CBlue%2F1.jpeg?alt=media&token=a27ccc52-099b-49a8-8ae5-245e3ea084a8",
+      "https://firebasestorage.googleapis.com/v0/b/myassetapi.appspot.com/o/men%2Fclothing%2FFine%20Spinners%202%20In%201%20Pack%20of%20Men's%20Cotton%20Polo%20%E2%80%93%20White%2CBlue%2F1.jpeg?alt=media&token=a27ccc52-099b-49a8-8ae5-245e3ea084a8"
+    ]
+  }
+]
